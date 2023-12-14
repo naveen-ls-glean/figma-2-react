@@ -1,0 +1,10 @@
+{
+  "api": "1.0.0",
+  "editorType": [
+    "figma"
+  ],
+  "id": "figma-to-react",
+  "name": "figma-to-react",
+  "main": "build/main.js",
+  "ui": "build/ui.js"
+}
